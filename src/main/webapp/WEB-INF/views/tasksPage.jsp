@@ -18,7 +18,9 @@
                 <div class="card-header">
                     New Task
                 </div>
-    
+                
+                <a href='./api'>Try ./api</a>
+
                 <div class="card-body">
     
                     <!-- New Task Form -->
